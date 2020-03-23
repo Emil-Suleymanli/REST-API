@@ -1,7 +1,14 @@
 Project Title: REST API service
+
 Python REST API service with Flask that enables to list, create, retrieve and identify if palindrome, update and delete a message. 
 Runs on port 8080
 
+
+HOW TO INSTALL:
+- sudo apt install python-pip
+- pip install flask
+
+HOW TO USE:
 On the browser or using Postman:
 
 - To list the messages:
